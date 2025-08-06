@@ -1,6 +1,6 @@
 # The Next Frontier: How Diffusion Models Are Revolutionizing Single-Cell RNA Sequencing
 
-*By Manus AI*  
+*By Tommy Terooatea*  
 *Published: August 6, 2025*
 
 ## Introduction: The Convergence of Two Revolutionary Technologies
